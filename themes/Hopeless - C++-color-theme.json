@@ -4,6 +4,12 @@
     "editor.background": "#263238",
     "editor.foreground": "#EEFFFF",
     "activityBarBadge.background": "#007ACC",
+
+    "sideBar.background": "#263238",
+    "sideBar.foreground": "#FFFFFF",
+    "activityBar.background": "#263238",
+    "titleBar.activeBackground": "#263238",
+
     "sideBarTitle.foreground": "#BBBBBB",
     "statusBar.background": "#263238",
     "tab.activeBackground": "#263238",
@@ -95,21 +101,21 @@
       "name": "STL Containers",
       "scope": ["support.type.stl.cpp"],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#f1d39b"
       }
     },
     {
       "name": "STL Algorithms",
       "scope": ["support.function.algorithm.cpp"],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#ef895a"
       }
     },
     {
       "name": "STL Iterators",
       "scope": ["support.type.iterator.cpp"],
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#d15f3d"
       }
     },
     {
@@ -123,21 +129,21 @@
       "name": "Variables",
       "scope": ["variable", "meta.definition.variable"],
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#c8d73b"
       }
     },
     {
       "name": "Functions",
       "scope": ["entity.name.function", "meta.function-call"],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#0d3faa"
       }
     },
     {
       "name": "Keywords",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#f873d7"
       }
     },
     {
@@ -240,7 +246,7 @@
       "name": "Strings",
       "scope": ["string", "string.quoted"],
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#8eed00"
       }
     },
     {
@@ -303,7 +309,7 @@
       "name": "Regular Expressions",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#5e5eb6"
       }
     },
     {
@@ -807,4 +813,3 @@
     }
   ]
 }
-
