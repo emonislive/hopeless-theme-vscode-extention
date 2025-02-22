@@ -1,10 +1,10 @@
-# Hopeless - C++ & Python Theme
+# Hopeless - C++ Theme
 
 ![Theme Preview](https://via.placeholder.com/800x400?text=Hopeless+C%2B%2B+%26+Python+Theme)
 
 ## Description
 
-**Hopeless - C++ & Python** is a visually appealing dark theme for Visual Studio Code, tailored primarily for C++ and Python development. It provides a harmonious blend of colors that enhance code readability and aesthetics, making long coding sessions more comfortable.
+**Hopeless - C++** is a visually appealing dark theme for Visual Studio Code, tailored primarily for C++ and Python development. It provides a harmonious blend of colors that enhance code readability and aesthetics, making long coding sessions more comfortable.
 
 ### Key Features:
 - **Dark Background:** A soothing dark background (`#263238`) with a light foreground (`#EEFFFF`) ensures reduced eye strain.
@@ -17,7 +17,7 @@
 ### Via Visual Studio Code Marketplace
 1. Open **Visual Studio Code**.
 2. Go to the **Extensions** view by clicking on the Extensions icon in the Activity Bar on the side of the window or pressing `Ctrl+Shift+X`.
-3. Search for **"Hopeless - C++ & Python"**.
+3. Search for **"Hopeless - C++"**.
 4. Click **Install**.
 
 ### Manual Installation
@@ -34,7 +34,7 @@ After installation, activate the theme by following these steps:
 
 1. Open the **Command Palette** (`Ctrl+Shift+P` or `Cmd+Shift+P` on macOS).
 2. Type **"Preferences: Color Theme"** and select it.
-3. Choose **"Hopeless - C++ & Python"** from the list of available themes.
+3. Choose **"Hopeless - C++** from the list of available themes.
 
 ## Customization
 
@@ -47,7 +47,7 @@ While the default settings should work well out of the box, you can further cust
 
 ```json
 "workbench.colorCustomizations": {
-    "[Hopeless - C++ & Python]": {
+    "[Hopeless - C++]": {
         "editor.background": "#263238",
         "editor.foreground": "#EEFFFF",
         "activityBarBadge.background": "#007ACC",
@@ -59,7 +59,7 @@ While the default settings should work well out of the box, you can further cust
 For token-specific customizations, use the `"editor.tokenColorCustomizations"` section:
 ```json
 "editor.tokenColorCustomizations": {
-    "[Hopeless - C++ & Python]": {
+    "[Hopeless - C++]": {
         "comments": "#546E7A",
         "keywords": "#C792EA",
         "strings": "#C3E88D",
