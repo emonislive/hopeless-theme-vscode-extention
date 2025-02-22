@@ -54,6 +54,19 @@ While the default settings should work well out of the box, you can further cust
         "sideBarTitle.foreground": "#BBBBBB"
     }
 }
+
 ```
+For token-specific customizations, use the `"editor.tokenColorCustomizations"` section:
+```json
+"editor.tokenColorCustomizations": {
+    "[Hopeless - C++ & Python]": {
+        "comments": "#546E7A",
+        "keywords": "#C792EA",
+        "strings": "#C3E88D",
+        "functions": "#82AAFF"
+    }
+}
+```
+
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or encounter any issues, please feel free to open an issue or submit a pull request on the GitHub Repository .
