@@ -3,6 +3,10 @@
   "displayName": "Hopeless",
   "description": "C++ syntax highlighting theme with distinct colors for every section.",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emonislive/hopeless-theme-vscode-extention.git"
+  },
   "engines": {
     "vscode": "^1.97.0"
   },
