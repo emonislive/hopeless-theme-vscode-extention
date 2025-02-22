@@ -1,0 +1,21 @@
+{
+  "name": "hopeless",
+  "displayName": "Hopeless",
+  "description": "C++ syntax highlighting theme with distinct colors for every section.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hopeless - C++",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hopeless - C++-color-theme.json"
+      }
+    ]
+  }
+}
